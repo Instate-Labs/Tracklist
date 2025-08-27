@@ -19,12 +19,8 @@ Our complete **project tracklist**, containing every project we’re currently w
 ### 🔹 Parallel  
 - In progress — updates on the way.  
 
----
-
-## ✅ Completed Projects  
-- **Abel**  
+### 🔹 Abel  
 - More incoming…  
-
 ---
 
 ## 📌 About Instate Labs  
