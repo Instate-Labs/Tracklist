@@ -6,20 +6,20 @@ Our complete **project tracklist**, containing every project we’re currently w
 
 ## 🚀 Active Projects  
 
-### 🔹 Dock  
+### Dock  
 - **v0.0.1 released** 🎉  
 - First step towards building a streamlined, user-centric foundation.  
 
-### 🔹 Steam  
+### Steam  
 - In progress — details coming soon.  
 
-### 🔹 Sync  
+### Sync  
 - In progress — stay tuned.  
 
-### 🔹 Parallel  
+### Parallel  
 - In progress — updates on the way.  
 
-### 🔹 Abel  
+### Abel  
 - More incoming…  
 ---
 
